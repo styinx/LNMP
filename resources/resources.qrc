@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>resources/style/icons/success.png</file>
+        <file>resources/style/icons/error.png</file>
+        <file>resources/style/icons/settings.png</file>
+        <file>resources/style/icons/star.png</file>
+    </qresource>
+</RCC>
